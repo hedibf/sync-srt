@@ -1,5 +1,5 @@
 # sync-srt
-Python to sync a .str subtitle file
+Python to sync a .str subtitles file
 
 Usage: **python3 sync-srt.py input_file time_difference**
 
